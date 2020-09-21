@@ -1,0 +1,5 @@
+homepage: "https://www.jobcase.com/"
+documentation: "https://github.com/jobcaseinc/jobcase-gtm-tag-template/blob/gtm-template/README.md"
+versions:
+  - sha: 09991a8adbb6109f9b1cae7b12b8496c866225ad
+    changeNotes: Initial release.
