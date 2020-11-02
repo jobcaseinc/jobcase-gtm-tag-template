@@ -1,5 +1,9 @@
 homepage: "https://www.jobcase.com/"
 documentation: "https://github.com/jobcaseinc/jobcase-gtm-tag-template/blob/master/README.md"
 versions:
+ # Latest version
+  - sha: 6b42e0822a258b1ef661d692071a600e1c5c8d72
+    changeNotes: Fix documentation link.
+ # Older versions
   - sha: 09991a8adbb6109f9b1cae7b12b8496c866225ad
     changeNotes: Initial release.
