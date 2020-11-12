@@ -6,7 +6,7 @@ Jobcase, Inc. Partner Action Tracking Tag is used to provide attribution based o
 #### Steps to implementation the tag.
 1. Within Google Tag Manager, click on **"Templates"** tab, then click **"Search Gallery"** button, search for **"Jobcase, Inc. Partner Action Tracking Tag"**, and then click **"Add to Workspace"**.
 ![Search Gallery](images/search.custom.template.png)
-2. Start by creating a new tag. In the tag configuration => choose tag type, search for **"Jobcase, Inc. Partner Action Tracking Tag"** custom tag
+2. Start by creating a new tag. In the tag configuration => choose tag type = **Landing Page**, search for **"Jobcase, Inc. Partner Action Tracking Tag"** custom tag
 ![Choose custom template tag](images/choose.custom.template.tag.png)
 
   * Add trigger named ex: "Jobcase Tag Landing PageView trigger" of **Page View** trigger type and add conditions
